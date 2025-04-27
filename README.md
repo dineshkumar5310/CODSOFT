@@ -39,17 +39,19 @@ task2.py – Python script version
 
 
 --------------------
+##3.Customer Churn Prediction
 
-TASK3: Customer Churn Prediction
-Description
+
+
+###Description
 Predicts whether a customer will churn (leave) or stay for a subscription-based service, using customer demographics and usage behavior data with a machine learning model (Random Forest Classifier).
 
-Files
+##Files
 TASK3.ipynb – Google Colab notebook version
 
 task3.py – Python script version
 
-How to Run
+##How to Run
 Colab: Open TASK3.ipynb in Google Colab.
 
 Local (Python): Run task3.py using any Python IDE or terminal.
