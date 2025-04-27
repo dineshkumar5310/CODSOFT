@@ -15,8 +15,7 @@ Predicts the genre of a movie based on its plot summary using natural language p
 
 ### How to Run
 - *Colab:* [Open in Google Colab](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID_1)
-- *Local (Python):*
-  ```bash
+- *Local (Python):  Run task1.py using any Python IDE or terminal.
 
 
 ------------
@@ -35,7 +34,24 @@ task2.py – Python script version
 
 ### How to Run
 - *Colab:* [Open in Google Colab](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID_1)
-- *Local (Python):*
-  ```bash
+- *Local (Python):  * Run task2.py using any Python IDE or terminal.
+
+
+
+--------------------
+
+TASK3: Customer Churn Prediction
+Description
+Predicts whether a customer will churn (leave) or stay for a subscription-based service, using customer demographics and usage behavior data with a machine learning model (Random Forest Classifier).
+
+Files
+TASK3.ipynb – Google Colab notebook version
+
+task3.py – Python script version
+
+How to Run
+Colab: Open TASK3.ipynb in Google Colab.
+
+Local (Python): Run task3.py using any Python IDE or terminal.
 
 
